@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ExpensesManagerApplication</string>
+    <string-array name="categories_array">
+        <item>Food</item>
+        <item>Work</item>
+        <item>Housing</item>
+        <item>Transportation</item>
+        <item>Health</item>
+        <item>Clothing</item>
+        <item>Personal Development</item>
+        <item>Kids</item>
+        <item>Pets</item>
+        <item>Investments</item>
+    </string-array>
+
+</resources>
